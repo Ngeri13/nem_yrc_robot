@@ -105,7 +105,7 @@ Várt kimenet a vezérlő node terminálján (példa):
 [robot_controller_node]: tavolsag: 1.45 m -> v: 0.54 m/s, w: 0.00 rad/s [LASSIT]
 [robot_controller_node]: tavolsag: 0.55 m -> v: 0.00 m/s, w: 0.60 rad/s [MEGALL, FORDUL]
 ```
-
+![kép1](img/kép1.png)
 ## Licenc
 
 GPL-3.0, lásd a `LICENSE` fájlt.
